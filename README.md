@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BraveNewDeFi
-- 👀 I’m interested in writing technical documentation for DeFi protocols.
-- 🌱 I’m currently expanding my knowledge of all things DeFi on Ethereum.
-- 💞️ I’m open to working with any protocol that could use my technical writing expertise to better build out their GitBook docs.
+
+I am the Mutant Marketing Lead for [Nexus Mutual](https://twitter.com/NexusMutual), and I have a background in technical writing among other genres of writing. I work to keep DeFi users safe through education and creating greater awareness of smart contract and stacked risk in DeFi. The best way to hedge against smart contract risk is by using Nexus Mutual's cover policies to keep your productive assets secure. 
+
 - 📫 You can email me at bcostas99782@gmail.com, connect with me on Discord (BraveNewDeFi#0027) or Twitter (@BraveDeFi).
 
 <!---
